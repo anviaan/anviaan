@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/carbajal_andre" target="blank"><img align="center" src="icons/twitter.png" alt="carbajal_andre" style="max-width:100%;" /></a>
 <a href="https://instagram.com/andre_alejandro23" target="blank"><img align="center" src="icons/instagram.png" alt="andre_alejandro23" style="max-width:100%;" /></a>
-<a href="https://replit.com/@anvian/" target="blank"><img align="center" src="icons/replit.png" alt="andre_alejandro23" width="40" height="40" /></a>
+<a href="https://replit.com/@anvian" target="blank"><img align="center" src="icons/replit.png" alt="andre_alejandro23" width="40" height="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

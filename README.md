@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📖 I want to learn **Git, Java, Nodejs, Make Minecrfat Datapacks and Plugins**
+- 📖 I want to learn **Git, Nodejs, Bootstrap, Java**
 
 - 📫 How to reach me **andre.carbajal.vargas@gmail.com**
 

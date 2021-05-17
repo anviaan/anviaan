@@ -20,8 +20,7 @@
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="icons/html5.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="icons/css3.svg" alt="css3" width="40" height="40"/> <a> 
-<a href="https://www.w3schools.com/js/" target="_blank"> <img src="icons/javascript.svg" alt="js" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="icons/figma.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/js/" target="_blank"> <img src="icons/javascript.svg" alt="js" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="icons/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="icons/visual-studio-code.svg" alt="vs" width="40" height="40"/> </a> 
 </p>

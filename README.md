@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anvian</h1>
-<h3 align="center">I'm a young man passionate about programming anh photography</h3>
+<h3 align="center">I'm a young man passionate about programming and photography</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anvian</h1>
 <h3 align="center">I'm a young man passionate about programming and photography</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Nodejs**
 
-- 📖 I want to learn **Nodejs**
+- 📖 I want to learn **Sql**
 
 - 📫 How to reach me **andre.carbajal.vargas@gmail.com**
 

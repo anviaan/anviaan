@@ -10,7 +10,6 @@ I'm currently working on personal projects.
 ### 📫 You can find me at:
   - Discord: `anvian#9169`
   - E-mail: [`andre.carbajal.vargas@gmail.com`](mailto:andre.carbajal.vargas@gmail.com)
-<br>
 
 ### Skills
 

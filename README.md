@@ -1,7 +1,7 @@
 # Hi there 👋
 **I'm Andre Carbajal** <br>
 
-Small and Java developer and Java lover
+Small and Java developer and Java lover 😁
 
 I'm currently working on personal projects.
 ### ⚡ Some stuff about me:
@@ -37,5 +37,3 @@ I'm currently working on personal projects.
 <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?&style=for-the-badge&logo=obsstudio&logoColor=white"/>
 <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-FF9800?&style=for-the-badge&logo=sublimetext&logoColor=white"/>
 <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-
- </details>

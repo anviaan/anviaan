@@ -17,11 +17,10 @@ I'm currently working on personal projects.
 *  Programming languages
 <p>
 <img alt="Java" src="https://img.shields.io/badge/java-%23323330.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Html" src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=%3178C6"/>
-<img alt="css" src="https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%0078D6"/>
-<img alt="sass" src="https://img.shields.io/badge/sass%20-%23323330.svg?&style=for-the-badge&logo=sass&logoColor=%0078D6"/>
-</p>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+<img alt="Html" src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="css3" src="https://img.shields.io/badge/css-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="sass" src="https://img.shields.io/badge/sass-%23323330.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
 
 * Knowledge operating system
 <p>

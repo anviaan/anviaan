@@ -1,7 +1,7 @@
 # Hi there 👋
 **I'm Andre Carbajal** <br>
 
-Small and Java developer and Java lover 😁
+Small developer and Java lover 😁
 
 I'm currently working on personal projects.
 ### ⚡ Some stuff about me:

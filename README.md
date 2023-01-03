@@ -35,5 +35,4 @@ I'm currently working on personal projects.
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-3C873A.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?&style=for-the-badge&logo=obsstudio&logoColor=white"/>
-<img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-FF9800?&style=for-the-badge&logo=sublimetext&logoColor=white"/>
 <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-001E36?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>

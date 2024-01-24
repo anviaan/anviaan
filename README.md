@@ -16,10 +16,12 @@ Develop mods compatible with the following loaders:
 - [Multiloader](https://github.com/jaredlll08/MultiLoader-Template)
 
 ## 📖 My Mods
+You can find my mods here:
 - [Curseforge](https://www.curseforge.com/members/anvian/projects)
 - [Modrinth](https://modrinth.com/user/anvian)
 
 ## 📫 Contact
+You can contact me at:
 - Discord: `anvian`
 - E-mail: [`andre.carbajal.vargas@gmail.com`](mailto:andre.carbajal.vargas@gmail.com)
 - Personal Github: [`https://github.com/andre-carbajal/`](https://github.com/andre-carbajal/)
